@@ -1,0 +1,652 @@
+id,separationtype,cease_date,position,employment_status,gender,age,institute_service,service_cat,dissatisfied
+4.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,36-40,7.0,Experienced,False
+6.0,Resignation,2012.0,Guidance Officer,Permanent Full-time,Female,41-45,18.0,Veteran,True
+9.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,31-35,3.0,New,False
+10.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,15.0,Veteran,True
+12.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,31-35,3.0,New,False
+13.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,36-40,14.0,Veteran,False
+15.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,31-35,5.0,Experienced,True
+17.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Male,61 or older,,,True
+21.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,56-60,30.0,Veteran,False
+22.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,51-55,32.0,Veteran,False
+23.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,46-50,15.0,Veteran,True
+24.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,61 or older,39.0,Veteran,True
+26.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,41-45,17.0,Veteran,True
+28.0,Resignation,2012.0,Public Servant,Permanent Full-time,Female,21-25,7.0,Experienced,False
+34.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,36-40,9.0,Established,True
+35.0,Resignation,2012.0,Cleaner,Permanent Part-time,Male,61 or older,6.0,Experienced,True
+38.0,Resignation,2012.0,Teacher Aide,Temporary Part-time,Female,21-25,1.0,New,False
+40.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,21-25,,,True
+41.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,56-60,35.0,Veteran,False
+42.0,Resignation,2012.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,51-55,38.0,Veteran,True
+43.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,41-45,1.0,New,False
+44.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,51-55,36.0,Veteran,True
+49.0,Resignation,2012.0,Cleaner,Permanent Full-time,Male,21-25,3.0,New,False
+51.0,Resignation,2012.0,Cleaner,Permanent Full-time,Male,21-25,3.0,New,False
+52.0,Resignation,2012.0,Cleaner,Permanent Full-time,Female,61 or older,19.0,Veteran,False
+56.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,26-30,4.0,Experienced,False
+58.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,46-50,9.0,Established,False
+62.0,Resignation,2012.0,Schools Officer,Temporary Part-time,Female,31-35,1.0,New,False
+70.0,Resignation,2012.0,Public Servant,Permanent Full-time,Female,36-40,6.0,Experienced,True
+72.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,36-40,1.0,New,False
+88.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,5.0,Experienced,False
+91.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,41-45,26.0,Veteran,False
+94.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,41-45,10.0,Established,True
+100.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,31-35,1.0,New,True
+101.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,36-40,6.0,Experienced,True
+103.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,51-55,10.0,Established,False
+104.0,Resignation,2012.0,,Permanent Part-time,Female,51-55,8.0,Established,True
+107.0,Resignation,2012.0,Teacher Aide,Temporary Part-time,Female,46-50,,,True
+109.0,Resignation,2012.0,Technical Officer,Permanent Part-time,Female,31-35,4.0,Experienced,False
+112.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,8.0,Established,False
+113.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,56-60,5.0,Experienced,True
+115.0,Resignation,2012.0,Guidance Officer,Permanent Full-time,Female,41-45,15.0,Veteran,True
+117.0,Resignation,2012.0,,Permanent Full-time,Male,56-60,36.0,Veteran,True
+119.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,46-50,2.0,New,True
+125.0,Resignation,2012.0,Public Servant,Permanent Part-time,Female,36-40,0.0,New,True
+127.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,51-55,32.0,Veteran,True
+131.0,Resignation,2012.0,Public Servant,Temporary Full-time,Male,51-55,0.0,New,True
+133.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,41-45,5.0,Experienced,True
+136.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,56-60,18.0,Veteran,True
+139.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,41-45,8.0,Established,False
+141.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,51-55,,,False
+146.0,Resignation,2012.0,Cleaner,Permanent Part-time,Male,61 or older,5.0,Experienced,False
+148.0,Resignation,2012.0,Public Servant,Permanent Full-time,Male,26-30,9.0,Established,True
+159.0,Resignation,2012.0,Public Servant,Temporary Part-time,Male,21-25,1.0,New,False
+161.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,41-45,9.0,Established,True
+165.0,Resignation,2012.0,Teacher Aide,Permanent Full-time,Female,41-45,7.0,Experienced,True
+180.0,Resignation,2012.0,Cleaner,Permanent Full-time,Female,36-40,0.0,New,True
+184.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,61 or older,14.0,Veteran,True
+186.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,31-35,7.0,Experienced,True
+190.0,Resignation,2012.0,Public Servant,Permanent Full-time,Female,41-45,6.0,Experienced,True
+193.0,Resignation,2012.0,Teacher Aide,Permanent Full-time,Female,46-50,17.0,Veteran,False
+196.0,Resignation,2012.0,Technical Officer,Permanent Full-time,Female,46-50,23.0,Veteran,False
+197.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,,,False
+198.0,Resignation,2012.0,Public Servant,Permanent Full-time,Female,31-35,7.0,Experienced,True
+205.0,Resignation,2012.0,Public Servant,Permanent Part-time,Female,21-25,4.0,Experienced,False
+206.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,36-40,6.0,Experienced,True
+211.0,Resignation,2012.0,Professional Officer,Permanent Part-time,Female,51-55,5.0,Experienced,False
+213.0,Resignation,2012.0,Teacher,Permanent Part-time,Male,61 or older,26.0,Veteran,True
+215.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,,13.0,Veteran,False
+224.0,Resignation,2012.0,Teacher,Permanent Full-time,,51-55,16.0,Veteran,True
+225.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,36-40,3.0,New,True
+229.0,Resignation,2012.0,Cleaner,Permanent Part-time,Male,56-60,18.0,Veteran,True
+236.0,Resignation,2012.0,Technical Officer,Permanent Full-time,Female,21-25,3.0,New,False
+248.0,Resignation,2013.0,"School Based Professional Staff (Therapist, nurse, etc)",Permanent Full-time,Female,26-30,6.0,Experienced,False
+249.0,Resignation,2012.0,Teacher,Temporary Full-time,Male,31-35,1.0,New,False
+251.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,7.0,Experienced,True
+255.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,31-35,12.0,Veteran,True
+256.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,46-50,4.0,Experienced,True
+257.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,7.0,Experienced,True
+258.0,Resignation,2012.0,Public Servant,Temporary Part-time,Female,21-25,0.0,New,False
+259.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,5.0,Experienced,True
+260.0,Resignation,2012.0,Schools Officer,Permanent Full-time,Male,41-45,4.0,Experienced,True
+263.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,36-40,2.0,New,True
+264.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,4.0,Experienced,False
+265.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,20 or younger,1.0,New,False
+268.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,36-40,1.0,New,False
+269.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,31-35,1.0,New,False
+270.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,2.0,New,False
+274.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,56-60,21.0,Veteran,False
+275.0,Resignation,2013.0,Public Servant,Temporary Part-time,Female,36-40,2.0,New,False
+280.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,61 or older,20.0,Veteran,True
+284.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,5.0,Experienced,True
+285.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,31-35,5.0,Experienced,True
+286.0,Resignation,2012.0,Cleaner,Permanent Full-time,Female,,0.0,New,False
+287.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,36-40,0.0,New,False
+289.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,26-30,,,True
+292.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,56-60,,,False
+294.0,Resignation,2012.0,Schools Officer,Permanent Part-time,,61 or older,,,False
+296.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,51-55,32.0,Veteran,True
+297.0,Resignation,2012.0,Technical Officer,Permanent Part-time,Male,41-45,6.0,Experienced,False
+301.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,51-55,16.0,Veteran,True
+302.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,46-50,,,False
+304.0,Resignation,2012.0,Cleaner,Permanent Part-time,Male,51-55,7.0,Experienced,True
+305.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,46-50,4.0,Experienced,False
+312.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,36-40,12.0,Veteran,True
+313.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,36-40,14.0,Veteran,True
+315.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,36-40,12.0,Veteran,False
+318.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,41-45,23.0,Veteran,False
+319.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,46-50,0.0,New,True
+321.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,26-30,1.0,New,True
+323.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,6.0,Experienced,True
+325.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,21-25,1.0,New,False
+326.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,12.0,Veteran,False
+327.0,Resignation,2012.0,Cleaner,Permanent Full-time,Female,36-40,4.0,Experienced,False
+333.0,Resignation,2012.0,Cleaner,Permanent Full-time,Female,21-25,1.0,New,True
+334.0,Resignation,2012.0,School Administrative Staff,Temporary Part-time,Female,51-55,0.0,New,True
+341.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,8.0,Established,True
+344.0,Resignation,2012.0,School Administrative Staff,Permanent Part-time,Female,41-45,,,False
+346.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,41-45,24.0,Veteran,True
+348.0,Resignation,2012.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,36-40,4.0,Experienced,False
+349.0,Resignation,2013.0,Teacher,Permanent Part-time,Male,56-60,33.0,Veteran,True
+355.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,6.0,Experienced,True
+356.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,56-60,21.0,Veteran,False
+357.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,31-35,10.0,Established,False
+366.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,26-30,,,False
+367.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,21-25,3.0,New,True
+368.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,1.0,New,True
+372.0,Resignation,2012.0,Teacher Aide,Permanent Full-time,Female,36-40,0.0,New,False
+375.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,41-45,20.0,Veteran,False
+376.0,Resignation,2012.0,Teacher Aide,Permanent Full-time,Female,46-50,13.0,Veteran,True
+377.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,5.0,Experienced,False
+378.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,22.0,Veteran,True
+380.0,Resignation,2012.0,Teacher,Permanent Part-time,Female,26-30,,,False
+382.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,26-30,5.0,Experienced,True
+384.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,56-60,18.0,Veteran,False
+389.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,46-50,6.0,Experienced,False
+390.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,46-50,28.0,Veteran,True
+391.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,46-50,13.0,Veteran,False
+392.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,31-35,5.0,Experienced,True
+399.0,Resignation,2012.0,Guidance Officer,Permanent Part-time,Female,41-45,19.0,Veteran,True
+400.0,Resignation,2013.0,Cleaner,,Male,56-60,,,True
+406.0,Resignation,2012.0,Teacher,,,,,,False
+407.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,56-60,22.0,Veteran,True
+408.0,Resignation,2013.0,Technical Officer,Temporary Part-time,Male,61 or older,,,False
+409.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,26-30,6.0,Experienced,True
+410.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,36-40,,,False
+411.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,26-30,5.0,Experienced,False
+413.0,Resignation,2013.0,Cleaner,Permanent Full-time,Female,41-45,5.0,Experienced,False
+415.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,41-45,16.0,Veteran,False
+416.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,2.0,New,False
+417.0,Resignation,2012.0,Teacher,Permanent Full-time,Female,61 or older,49.0,Veteran,False
+418.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,41-45,5.0,Experienced,True
+420.0,Resignation,2013.0,Teacher Aide,Temporary Part-time,Female,41-45,1.0,New,True
+424.0,Resignation,2013.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Male,31-35,5.0,Experienced,False
+433.0,Resignation,2013.0,Technical Officer,Permanent Full-time,Female,26-30,5.0,Experienced,True
+434.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,46-50,20.0,Veteran,True
+435.0,Resignation,2013.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,26-30,7.0,Experienced,True
+438.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,31-35,11.0,Established,True
+439.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,,,False
+440.0,Resignation,2012.0,Teacher Aide,Permanent Full-time,Female,56-60,20.0,Veteran,True
+442.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,31-35,3.0,New,False
+450.0,Resignation,2012.0,Teacher,Permanent Full-time,Male,36-40,,,True
+452.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,21-25,4.0,Experienced,False
+453.0,Resignation,2013.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,41-45,22.0,Veteran,False
+455.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,56-60,0.0,New,True
+457.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,0.0,New,True
+460.0,Resignation,2012.0,Public Servant,Temporary Full-time,Female,36-40,1.0,New,False
+462.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,51-55,3.0,New,False
+465.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,36-40,11.0,Established,True
+467.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,41-45,13.0,Veteran,True
+471.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,46-50,23.0,Veteran,True
+472.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,56-60,,,True
+474.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,51-55,16.0,Veteran,True
+477.0,Resignation,2013.0,Teacher,Casual,Male,51-55,5.0,Experienced,True
+478.0,Resignation,2013.0,Cleaner,Permanent Full-time,Male,46-50,9.0,Established,False
+479.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,51-55,13.0,Veteran,False
+480.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,26-30,0.0,New,True
+482.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Male,41-45,22.0,Veteran,True
+486.0,Resignation,2012.0,Teacher Aide,Permanent Part-time,Female,46-50,7.0,Experienced,False
+487.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,41-45,20.0,Veteran,False
+490.0,Resignation,2012.0,Cleaner,,Female,46-50,,,False
+493.0,Resignation,2013.0,Teacher,Permanent Part-time,,61 or older,39.0,Veteran,True
+495.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,56-60,24.0,Veteran,True
+496.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,46-50,1.0,New,False
+498.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,36-40,4.0,Experienced,True
+500.0,Resignation,2013.0,Public Servant,Temporary Full-time,Female,26-30,0.0,New,False
+501.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,31-35,11.0,Established,False
+504.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,61 or older,41.0,Veteran,True
+505.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,36-40,5.0,Experienced,False
+506.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,46-50,24.0,Veteran,True
+507.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,21-25,4.0,Experienced,True
+518.0,Resignation,2010.0,Teacher Aide,Permanent Full-time,,31-35,3.0,New,False
+532.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,56-60,,,True
+534.0,Resignation,2013.0,Public Servant,Permanent Full-time,Male,36-40,14.0,Veteran,False
+535.0,Resignation,2012.0,Cleaner,Permanent Part-time,Female,56-60,4.0,Experienced,False
+537.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Female,46-50,6.0,Experienced,True
+539.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,26-30,,,True
+540.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,51-55,6.0,Experienced,False
+542.0,Resignation,2013.0,Public Servant,Permanent Part-time,Female,41-45,17.0,Veteran,True
+544.0,Resignation,2013.0,Professional Officer,Permanent Full-time,Female,21-25,2.0,New,False
+548.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Female,41-45,3.0,New,True
+551.0,Resignation,2013.0,Teacher,Permanent Full-time,Male,36-40,13.0,Veteran,False
+552.0,Resignation,2013.0,Schools Officer,Permanent Full-time,Male,41-45,2.0,New,False
+553.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,56-60,8.0,Established,True
+558.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,2.0,New,True
+563.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,41-45,1.0,New,False
+564.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,41-45,23.0,Veteran,True
+569.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,46-50,13.0,Veteran,True
+570.0,Resignation,2013.0,Schools Officer,Permanent Full-time,Male,31-35,3.0,New,True
+572.0,Resignation,2013.0,Business Service Manager,Permanent Full-time,Female,41-45,15.0,Veteran,False
+576.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,31-35,9.0,Established,True
+577.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,26-30,9.0,Established,True
+578.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,36-40,19.0,Veteran,False
+585.0,Resignation,2013.0,School Administrative Staff,Permanent Part-time,Female,51-55,5.0,Experienced,False
+586.0,Resignation,2013.0,Teacher Aide,Temporary Full-time,Female,21-25,1.0,New,False
+587.0,Resignation,2010.0,Teacher,Permanent Part-time,Female,51-55,11.0,Established,False
+589.0,Resignation,2013.0,Other,Temporary Part-time,Male,31-35,2.0,New,True
+590.0,Resignation,2013.0,Other,Permanent Full-time,Male,61 or older,28.0,Veteran,True
+591.0,Resignation,2014.0,Public Servant,Permanent Full-time,Female,31-35,9.0,Established,True
+593.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,56-60,12.0,Veteran,False
+594.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,36-40,8.0,Established,True
+602.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,26-30,3.0,New,True
+605.0,Resignation,2013.0,Schools Officer,Permanent Part-time,Female,61 or older,17.0,Veteran,False
+608.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,31-35,9.0,Established,True
+609.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,31-35,9.0,Established,True
+611.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,61 or older,24.0,Veteran,True
+613.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,51-55,20.0,Veteran,False
+614.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,26-30,3.0,New,False
+618.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,51-55,17.0,Veteran,True
+620.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,36-40,10.0,Established,False
+622.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,51-55,30.0,Veteran,True
+624.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,56-60,9.0,Established,False
+626.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,41-45,2.0,New,True
+627.0,Resignation,2013.0,Public Servant,Permanent Part-time,Female,26-30,3.0,New,True
+632.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Male,41-45,7.0,Experienced,True
+638.0,Resignation,2013.0,Teacher Aide,Casual,Female,36-40,0.0,New,False
+642.0,Resignation,2013.0,"School Based Professional Staff (Therapist, nurse, etc)",Permanent Part-time,Female,36-40,3.0,New,False
+643.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,31-35,3.0,New,False
+648.0,Resignation,2013.0,Technical Officer,Permanent Full-time,Female,51-55,21.0,Veteran,False
+650.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Female,51-55,18.0,Veteran,False
+651.0,Resignation,2013.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,61 or older,17.0,Veteran,True
+652.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,51-55,3.0,New,True
+653.0,Resignation,2013.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Female,61 or older,27.0,Veteran,False
+659.0,Resignation,2013.0,Teacher,Temporary Full-time,,61 or older,42.0,Veteran,False
+660.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Female,41-45,15.0,Veteran,False
+663.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,46-50,,,False
+666.0,Resignation,2014.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Male,46-50,15.0,Veteran,True
+668.0,Resignation,2014.0,Public Servant,Temporary Full-time,Male,21-25,2.0,New,False
+669.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,41-45,2.0,New,False
+671.0,Resignation,2013.0,"School Based Professional Staff (Therapist, nurse, etc)",Temporary Full-time,Female,26-30,0.0,New,True
+672.0,Resignation,2013.0,"School Based Professional Staff (Therapist, nurse, etc)",Temporary Full-time,Female,21-25,0.0,New,False
+673.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,41-45,4.0,Experienced,False
+678.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,26-30,4.0,Experienced,True
+680.0,Resignation,2013.0,,Casual,Female,36-40,1.0,New,False
+684.0,Resignation,2013.0,Teacher,Permanent Full-time,,46-50,25.0,Veteran,False
+685.0,Resignation,,Teacher,Permanent Full-time,Male,21-25,,,True
+686.0,Resignation,2013.0,Schools Officer,Permanent Full-time,Female,46-50,9.0,Established,True
+687.0,Resignation,2014.0,Public Servant,Permanent Full-time,Male,56-60,29.0,Veteran,False
+689.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,46-50,0.0,New,False
+692.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,31-35,10.0,Established,False
+693.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,36-40,16.0,Veteran,False
+694.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,21-25,1.0,New,False
+695.0,Resignation,2014.0,Teacher,Permanent Full-time,Male,41-45,4.0,Experienced,False
+696.0,Resignation,,Teacher Aide,Casual,Female,46-50,,,False
+698.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Male,26-30,5.0,Experienced,False
+700.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,41-45,3.0,New,True
+702.0,Resignation,2013.0,Other,Casual,Male,21-25,6.0,Experienced,False
+703.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,46-50,25.0,Veteran,False
+705.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,51-55,0.0,New,True
+706.0,Resignation,,Teacher Aide,Permanent Full-time,Female,41-45,,,False
+711.0,Resignation,,Teacher,Permanent Full-time,Female,51-55,,,True
+714.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,61 or older,,,False
+718.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,51-55,13.0,Veteran,True
+726.0,Resignation,,Teacher,Permanent Full-time,Female,46-50,,,False
+728.0,Resignation,2014.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Male,56-60,39.0,Veteran,True
+729.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,51-55,34.0,Veteran,True
+732.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,46-50,14.0,Veteran,True
+733.0,Resignation,2014.0,Technical Officer,Permanent Full-time,Male,56-60,22.0,Veteran,True
+737.0,Resignation,2013.0,Cleaner,Permanent Full-time,Female,61 or older,7.0,Experienced,False
+739.0,Resignation,2013.0,Teacher,Permanent Part-time,Male,56-60,14.0,Veteran,False
+746.0,Resignation,2013.0,Public Servant,Permanent Full-time,Female,41-45,22.0,Veteran,True
+749.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,41-45,6.0,Experienced,False
+753.0,Resignation,2013.0,Cleaner,Permanent Part-time,Male,61 or older,8.0,Established,True
+754.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,46-50,15.0,Veteran,False
+755.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,31-35,9.0,Established,True
+757.0,Resignation,2013.0,Teacher,Permanent Part-time,Female,41-45,1.0,New,False
+764.0,Resignation,2006.0,Teacher,Permanent Part-time,Female,41-45,0.0,New,False
+768.0,Resignation,2014.0,Teacher,Permanent Full-time,Male,26-30,7.0,Experienced,False
+771.0,Resignation,2013.0,Teacher Aide,Permanent Full-time,Female,46-50,5.0,Experienced,False
+772.0,Resignation,,Cleaner,Permanent Part-time,Female,61 or older,,,False
+773.0,Resignation,2014.0,Head of Curriculum/Head of Special Education,Permanent Full-time,Male,36-40,12.0,Veteran,False
+776.0,Resignation,,Teacher Aide,Permanent Part-time,Female,41-45,,,False
+786.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,21-25,0.0,New,True
+788.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,41-45,20.0,Veteran,True
+790.0,Resignation,,Teacher,Permanent Full-time,Female,41-45,,,False
+791.0,Resignation,2014.0,"School Based Professional Staff (Therapist, nurse, etc)",Permanent Part-time,Female,51-55,31.0,Veteran,False
+792.0,Resignation,2014.0,Teacher,Permanent Full-time,Male,36-40,6.0,Experienced,True
+793.0,Resignation,,Public Servant,Permanent Part-time,Female,46-50,,,True
+796.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,36-40,,,False
+799.0,Resignation,,Public Servant,Permanent Part-time,Female,36-40,,,False
+800.0,Resignation,,Teacher Aide,Permanent Part-time,Female,36-40,,,False
+804.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,,,,,False
+805.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,46-50,10.0,Established,False
+806.0,Resignation,2014.0,Teacher,Permanent Part-time,Female,26-30,6.0,Experienced,False
+808.0,Resignation,2013.0,Cleaner,Permanent Part-time,Female,41-45,8.0,Established,False
+809.0,Resignation,2013.0,Teacher,Permanent Full-time,Female,36-40,9.0,Established,True
+810.0,Resignation,2013.0,Teacher Aide,Permanent Part-time,Female,26-30,3.0,New,False
+817.0,Resignation,2014.0,Teacher,Permanent Full-time,Male,21-25,2.0,New,False
+818.0,Resignation,2014.0,Teacher,Permanent Full-time,Female,21-25,2.0,New,False
+821.0,Resignation,2014.0,Public Servant,Permanent Full-time,Female,31-35,5.0,Experienced,True
+823.0,Resignation,2013.0,Teacher Aide,,,,,,False
+6.3413990335e+17,Resignation,2010.0,,,,,,,False
+6.34146578511788e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,41  45,3.0,New,False
+6.34147506906311e+17,Resignation,2010.0,Teacher (including LVT),Contract/casual,Female,56 or older,7.0,Experienced,False
+6.34152007975694e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Male,20 or younger,3.0,New,False
+6.34153745310374e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,46  50,3.0,New,False
+6.34157899735969e+17,Resignation,2009.0,Tutor,Temporary Full-time,Female,36  40,3.0,New,False
+6.34158812168312e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,21  25,1.0,New,False
+6.34158825838625e+17,Resignation,2010.0,Administration (AO),Temporary Part-time,Female,41  45,1.0,New,False
+6.3417252283144e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,31  35,11.0,Established,False
+6.34172609223344e+17,Resignation,2010.0,Teacher (including LVT),Permanent Part-time,Female,31  35,7.0,Experienced,True
+6.34176076134409e+17,Resignation,2010.0,Technical Officer (TO),Permanent Part-time,Female,46  50,11.0,Established,False
+6.34177007457719e+17,Resignation,2010.0,,,,,,,True
+6.34177053480062e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,31  35,7.0,Experienced,True
+6.34177938010971e+17,Resignation,2010.0,,,,,,,True
+6.3418197264725e+17,Resignation,2010.0,,,,,,,False
+6.34182099183434e+17,Resignation,2010.0,,,,,,,True
+6.34183070751313e+17,Resignation,2010.0,,,,,,,False
+6.34184748867652e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Male,26  30,5.0,Experienced,False
+6.34190678592028e+17,Resignation,2010.0,Administration (AO),Contract/casual,Female,26  30,1.0,New,False
+6.34190743855375e+17,Resignation,2010.0,Teacher (including LVT),Permanent Part-time,Female,31  35,7.0,Experienced,False
+6.34193418130687e+17,Resignation,2010.0,,,,,,,True
+6.34193458894281e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Male,56 or older,20.0,Veteran,False
+6.341993935285e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34200229589215e+17,Resignation,2010.0,Professional Officer (PO),Temporary Part-time,Female,46  50,1.0,New,False
+6.34206210361383e+17,Resignation,2010.0,,,,,,,False
+6.34207964363344e+17,Resignation,2010.0,,,,,,,False
+6.34208063783969e+17,Resignation,2010.0,,,,,,,False
+6.34208993864195e+17,Resignation,2010.0,Administration (AO),Temporary Part-time,Female,26  30,1.0,New,True
+6.34209003247164e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Female,36  40,11.0,Established,False
+6.34209012525289e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,31  35,3.0,New,False
+6.34209027931539e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,51-55,11.0,Established,False
+6.34209037420601e+17,Resignation,2010.0,Teacher (including LVT),Permanent Part-time,Female,56 or older,20.0,Veteran,False
+6.34211542757094e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,31  35,1.0,New,True
+6.3421319649857e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Male,56 or older,3.0,New,False
+6.34214138447945e+17,Resignation,2010.0,,,,,,,True
+6.34214156864906e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,41  45,3.0,New,True
+6.34214849407633e+17,Resignation,2010.0,,,,,,,False
+6.34217422828726e+17,Resignation,2010.0,,,,,,,True
+6.34218492665219e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34219251646781e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,26  30,3.0,New,False
+6.34219274566469e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,56 or older,3.0,New,True
+6.34220006275757e+17,Resignation,2009.0,Operational (OO),Permanent Full-time,Male,51-55,3.0,New,False
+6.34220145175757e+17,Resignation,2010.0,Operational (OO),Permanent Full-time,Male,46  50,11.0,Established,True
+6.34221044292008e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,21  25,1.0,New,True
+6.34223513490601e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34226171903257e+17,Resignation,2010.0,Teacher (including LVT),Permanent Full-time,Male,51-55,3.0,New,False
+6.3422718506975e+17,Resignation,2010.0,Professional Officer (PO),Permanent Full-time,Female,36  40,7.0,Experienced,True
+6.34227207368969e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,51-55,5.0,Experienced,False
+6.34231466668883e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,20 or younger,1.0,New,True
+6.34241795347656e+17,Resignation,2010.0,Teacher (including LVT),Contract/casual,Male,41  45,1.0,New,True
+6.34243628858726e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,46  50,7.0,Experienced,False
+6.34243664081406e+17,Resignation,2010.0,Teacher (including LVT),Temporary Part-time,Male,41  45,5.0,Experienced,False
+6.34245133689063e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,41  45,5.0,Experienced,False
+6.34250409172945e+17,Resignation,2010.0,Teacher (including LVT),Contract/casual,Female,56 or older,3.0,New,False
+6.34251116016226e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,26  30,7.0,Experienced,False
+6.34251290130132e+17,Resignation,2010.0,Administration (AO),Permanent Part-time,Female,41  45,3.0,New,True
+6.34257448030289e+17,Resignation,2010.0,,,,,,,False
+6.3425975246732e+17,Resignation,2010.0,Administration (AO),Contract/casual,Female,31  35,1.0,New,False
+6.34260719918915e+17,Resignation,2010.0,Administration (AO),Temporary Full-time,Female,41  45,1.0,New,False
+6.34266079365634e+17,Resignation,2010.0,,,,,,,False
+6.34266938733603e+17,Resignation,2010.0,Administration (AO),Permanent Full-time,Female,31  35,11.0,Established,False
+6.3426772590329e+17,Resignation,,Teacher (including LVT),Permanent Full-time,Male,56 or older,11.0,Established,False
+6.34267873855009e+17,Resignation,2011.0,,,,,,,False
+6.34268446707283e+17,Resignation,2010.0,Administration (AO),Temporary Part-time,Female,31  35,1.0,New,True
+6.34268641051884e+17,Resignation,2011.0,,,,,,,True
+6.34269438105095e+17,Resignation,2010.0,Administration (AO),Contract/casual,Male,21  25,1.0,New,True
+6.34273756721501e+17,Resignation,2011.0,Professional Officer (PO),Permanent Full-time,Female,46  50,5.0,Experienced,True
+6.34274542281501e+17,Resignation,2010.0,,,,,,,True
+6.34274566132353e+17,Resignation,2010.0,,,,,,,True
+6.34275489048845e+17,Resignation,2010.0,Teacher (including LVT),Temporary Full-time,Female,36  40,1.0,New,True
+6.34280719819371e+17,Resignation,,Administration (AO),Permanent Full-time,Female,36  40,11.0,Established,False
+6.34281400568746e+17,Resignation,2010.0,Professional Officer (PO),Permanent Full-time,Male,41  45,3.0,New,False
+6.34284989401715e+17,Resignation,2010.0,Executive (SES/SO),Contract/casual,Male,36  40,1.0,New,False
+6.34285909851304e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.34297824199371e+17,Resignation,,,,,,,,True
+6.34298884567184e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,26  30,7.0,Experienced,True
+6.34309981362554e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,56 or older,11.0,Established,False
+6.34310942921246e+17,Resignation,2011.0,Operational (OO),Temporary Full-time,Male,41  45,11.0,Established,False
+6.34314358367965e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34316886387496e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,46  50,3.0,New,False
+6.34317688380679e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,26  30,3.0,New,False
+6.34322927651559e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Male,51-55,1.0,New,True
+6.3432311502146e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Male,51-55,1.0,New,True
+6.34323709021402e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Male,51-55,1.0,New,True
+6.34323806434371e+17,Resignation,2011.0,Administration (AO),Contract/casual,Female,46  50,3.0,New,False
+6.34326352243491e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,False
+6.3432637818396e+17,Resignation,2011.0,,,,,,,False
+6.3432645414859e+17,Resignation,2011.0,Operational (OO),Temporary Part-time,Female,41  45,1.0,New,False
+6.34328087765991e+17,Resignation,2011.0,Operational (OO),Temporary Part-time,Female,51-55,1.0,New,False
+6.34328171329844e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,36  40,3.0,New,False
+6.34328202850835e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Female,51-55,3.0,New,True
+6.3432828844021e+17,Resignation,,,,,,,,True
+6.34329804601719e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,46  50,5.0,Experienced,False
+6.34329959592554e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Male,21  25,3.0,New,False
+6.34333279253906e+17,Resignation,2011.0,,,,,,,False
+6.34346271723281e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Male,31  35,1.0,New,False
+6.34353285189063e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.34356555160312e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Female,51-55,1.0,New,False
+6.34356560392188e+17,Resignation,2011.0,Teacher (including LVT),Permanent Part-time,Female,36  40,3.0,New,False
+6.34356641434062e+17,Resignation,2011.0,Workplace Training Officer,Contract/casual,Male,56 or older,1.0,New,False
+6.34356731460781e+17,Resignation,2011.0,Administration (AO),Temporary Part-time,Female,21  25,1.0,New,False
+6.34358247777344e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Male,20 or younger,1.0,New,False
+6.34365142728281e+17,Resignation,2011.0,Technical Officer (TO),Contract/casual,Female,21  25,1.0,New,True
+6.3436545961125e+17,Resignation,2011.0,Teacher (including LVT),Temporary Part-time,Female,41  45,1.0,New,False
+6.34366032016094e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,20 or younger,1.0,New,False
+6.34370483668125e+17,Resignation,2011.0,Teacher (including LVT),Permanent Part-time,Female,51-55,20.0,Veteran,True
+6.34376433396563e+17,Resignation,2011.0,Technical Officer (TO),Contract/casual,Female,41  45,5.0,Experienced,False
+6.34377507269688e+17,Resignation,2011.0,Teacher (including LVT),Temporary Part-time,Female,51-55,1.0,New,False
+6.34381134640312e+17,Resignation,2011.0,,,,,,,True
+6.34388661685e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,46  50,1.0,New,False
+6.34389476488906e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,21  25,3.0,New,False
+6.3439543481625e+17,Resignation,2011.0,Operational (OO),Permanent Part-time,Male,21  25,1.0,New,False
+6.34399738233281e+17,Resignation,2011.0,Administration (AO),Permanent Part-time,Female,21  25,5.0,Experienced,False
+6.34407548427969e+17,Resignation,2011.0,Administration (AO),Temporary Part-time,Female,31  35,3.0,New,False
+6.34411016475156e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,21  25,3.0,New,True
+6.34412849002344e+17,Resignation,2011.0,Operational (OO),Permanent Full-time,Male,41  45,3.0,New,True
+6.34417864506406e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,46  50,1.0,New,True
+6.34418043788438e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Female,26  30,1.0,New,True
+6.34419660420156e+17,Resignation,2011.0,Executive (SES/SO),Temporary Full-time,Male,46  50,1.0,New,True
+6.34419812329531e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,46  50,1.0,New,False
+6.344250437875e+17,Resignation,2011.0,Administration (AO),Contract/casual,Female,46  50,5.0,Experienced,False
+6.34429978393906e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,41  45,1.0,New,False
+6.34430196933125e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Female,36  40,1.0,New,False
+6.34431906734219e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Male,36  40,5.0,Experienced,False
+6.34436080180469e+17,Resignation,2011.0,Operational (OO),Temporary Full-time,Male,26  30,1.0,New,True
+6.34443964450156e+17,Resignation,2011.0,Teacher (including LVT),Contract/casual,Male,41  45,1.0,New,False
+6.34444676214219e+17,Resignation,2011.0,Administration (AO),Contract/casual,Female,41  45,3.0,New,False
+6.34454356619531e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,False
+6.34456033339688e+17,Resignation,2011.0,Teacher (including LVT),Contract/casual,Female,41  45,1.0,New,True
+6.3445681099e+17,Resignation,2010.0,,,,,,,True
+6.34462838669219e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34465408262031e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,True
+6.34466338996094e+17,Resignation,2011.0,Technical Officer (TO),Temporary Full-time,Male,41  45,1.0,New,False
+6.3446906019125e+17,Resignation,2011.0,Executive (SES/SO),Temporary Full-time,Male,36  40,1.0,New,False
+6.34474119730625e+17,Resignation,2011.0,Administration (AO),Contract/casual,Female,21  25,1.0,New,False
+6.344801538575e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,True
+6.34480996232969e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Female,41  45,11.0,Established,True
+6.3448707873875e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,46  50,5.0,Experienced,False
+6.34495664096406e+17,Resignation,2011.0,Professional Officer (PO),Permanent Full-time,Female,26  30,3.0,New,False
+6.34496573562969e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,51-55,1.0,New,False
+6.34497559461719e+17,Resignation,2011.0,Teacher (including LVT),Contract/casual,Male,31  35,1.0,New,False
+6.34498298127969e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,20 or younger,1.0,New,False
+6.34499252882656e+17,Resignation,2010.0,,,,,,,True
+6.34508607117812e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Male,21  25,3.0,New,False
+6.34509621647969e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,51-55,1.0,New,False
+6.34515603225e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,36  40,1.0,New,True
+6.34517445885469e+17,Resignation,2011.0,Professional Officer (PO),Permanent Part-time,Female,41  45,11.0,Established,False
+6.34520852160469e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Female,51-55,1.0,New,False
+6.34521642169688e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,21  25,3.0,New,True
+6.34522371755781e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,36  40,1.0,New,False
+6.34523409759688e+17,Resignation,2011.0,,,,,,,False
+6.34526057042656e+17,Resignation,2011.0,Administration (AO),Temporary Part-time,Female,41  45,1.0,New,False
+6.34527641594062e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,20 or younger,1.0,New,False
+6.34541462557656e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,21  25,3.0,New,False
+6.34550190071875e+17,Resignation,2011.0,Professional Officer (PO),Temporary Part-time,Female,51-55,1.0,New,False
+6.34551034294687e+17,Resignation,2011.0,,,,,,,True
+6.34551070180781e+17,Resignation,2011.0,Workplace Training Officer,Permanent Part-time,Female,36  40,5.0,Experienced,False
+6.3455287020625e+17,Resignation,2011.0,Professional Officer (PO),Permanent Full-time,Male,36  40,3.0,New,False
+6.34556300304062e+17,Resignation,2011.0,Operational (OO),Permanent Full-time,Female,41  45,1.0,New,False
+6.345578604725e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Male,46  50,11.0,Established,False
+6.3455802800948e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Male,26  30,1.0,New,False
+6.34558122915156e+17,Resignation,2011.0,,,,,,,True
+6.3455895140073e+17,Resignation,2011.0,Professional Officer (PO),Permanent Part-time,Female,56 or older,20.0,Veteran,False
+6.34563192324844e+17,Resignation,2011.0,,,,,,,False
+6.34563904634531e+17,Resignation,2011.0,Tutor,Permanent Full-time,Female,56 or older,5.0,Experienced,False
+6.34564734197031e+17,Resignation,2011.0,,,,,,,False
+6.34564737601875e+17,Resignation,2011.0,Teacher (including LVT),Temporary Full-time,Male,46  50,1.0,New,True
+6.34565719506875e+17,Resignation,2011.0,Tutor,Temporary Full-time,Male,46  50,1.0,New,False
+6.34568278370781e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,51-55,20.0,Veteran,True
+6.34568317773125e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,56 or older,20.0,Veteran,False
+6.34570247249322e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Female,56 or older,11.0,Established,False
+6.34570842998906e+17,Resignation,2011.0,Executive (SES/SO),Permanent Full-time,Female,46  50,5.0,Experienced,True
+6.34574339025156e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,51-55,20.0,Veteran,True
+6.3457516073125e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,51-55,11.0,Established,False
+6.345754127925e+17,Resignation,2011.0,Administration (AO),Permanent Part-time,Female,56 or older,20.0,Veteran,True
+6.34576020012813e+17,Resignation,2011.0,Professional Officer (PO),Permanent Part-time,Female,56 or older,11.0,Established,False
+6.34576957824062e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,56 or older,11.0,Established,False
+6.34577056474375e+17,Resignation,2011.0,Administration (AO),Permanent Full-time,Female,21  25,1.0,New,False
+6.34577945776563e+17,Resignation,2011.0,Teacher (including LVT),Contract/casual,Female,51-55,3.0,New,False
+6.34577978929375e+17,Resignation,2011.0,Administration (AO),Temporary Part-time,Female,31  35,3.0,New,False
+6.3458117411625e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,51-55,20.0,Veteran,True
+6.34582074204062e+17,Resignation,2011.0,Professional Officer (PO),Temporary Full-time,Female,26  30,1.0,New,False
+6.34582155813125e+17,Resignation,2011.0,Teacher (including LVT),Temporary Part-time,Female,46  50,1.0,New,False
+6.34589153179219e+17,Resignation,2011.0,Teacher (including LVT),Contract/casual,Female,51-55,1.0,New,False
+6.3459250085375e+17,Resignation,2011.0,,,,,,,True
+6.34592549493281e+17,Resignation,2011.0,Administration (AO),Temporary Part-time,Female,46  50,3.0,New,False
+6.34593386107187e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,41  45,1.0,New,False
+6.34595867098906e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,41  45,3.0,New,False
+6.34600285342656e+17,Resignation,2011.0,Administration (AO),Temporary Full-time,Female,41  45,1.0,New,False
+6.34617650635469e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,41  45,3.0,New,True
+6.34620134299688e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,36  40,5.0,Experienced,False
+6.34623599234844e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,56 or older,11.0,Established,False
+6.34634833429063e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Female,31  35,1.0,New,True
+6.34635009354531e+17,Resignation,2012.0,Administration (AO),Temporary Part-time,Female,31  35,1.0,New,False
+6.34638198687656e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,36  40,7.0,Experienced,False
+6.3463826696125e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Male,41  45,1.0,New,True
+6.34638274154219e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.34638401683906e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,56 or older,11.0,Established,True
+6.34648744738906e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Female,51-55,1.0,New,False
+6.34648747047187e+17,Resignation,2012.0,Workplace Training Officer,Permanent Full-time,Male,51-55,11.0,Established,False
+6.34653126293281e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Male,26  30,7.0,Experienced,False
+6.34662477490156e+17,Resignation,2012.0,Workplace Training Officer,Temporary Full-time,Female,31  35,1.0,New,False
+6.34666828449688e+17,Resignation,2012.0,,,,,,,True
+6.34666854789531e+17,Resignation,2012.0,Professional Officer (PO),Permanent Full-time,Female,41  45,11.0,Established,False
+6.34668611537031e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,31  35,3.0,New,False
+6.34671263031094e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,26  30,5.0,Experienced,True
+6.34671297286719e+17,Resignation,2012.0,Teacher (including LVT),Contract/casual,Female,51-55,1.0,New,False
+6.34674515660156e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,36  40,11.0,Established,True
+6.3468315402e+17,Resignation,2012.0,,,,,,,False
+6.34683356744531e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,20 or younger,3.0,New,False
+6.34691779624687e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,False
+6.34696179014844e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,26  30,7.0,Experienced,False
+6.34696327235313e+17,Resignation,2012.0,,,,,,,True
+6.34697816674062e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,26  30,1.0,New,False
+6.347023585025e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,36  40,3.0,New,True
+6.34702366178594e+17,Resignation,2011.0,Teacher (including LVT),Permanent Full-time,Male,31  35,5.0,Experienced,False
+6.34713425884844e+17,Resignation,2012.0,Workplace Training Officer,Permanent Full-time,Female,56 or older,1.0,New,False
+6.34722082133437e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,21  25,1.0,New,False
+6.34722949292074e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,41  45,1.0,New,True
+6.34722992951406e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,31  35,1.0,New,True
+6.34743600339485e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,56 or older,20.0,Veteran,False
+6.3475061227315e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,46  50,1.0,New,False
+6.34753384952766e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Female,51-55,1.0,New,False
+6.34760046003775e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,36  40,5.0,Experienced,True
+6.34763735587969e+17,Resignation,2012.0,Administration (AO),Contract/casual,Female,31  35,1.0,New,False
+6.34774030826094e+17,Resignation,2012.0,Professional Officer (PO),Temporary Part-time,Female,46  50,1.0,New,False
+6.34774723180937e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,46  50,11.0,Established,False
+6.34775905600156e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Male,36  40,1.0,New,True
+6.34776478226875e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,21  25,1.0,New,False
+6.34779998192656e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,36  40,1.0,New,True
+6.34781625247656e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,False
+6.34781843688125e+17,Resignation,2012.0,Teacher (including LVT),Permanent Part-time,Female,51-55,5.0,Experienced,True
+6.34782721630781e+17,Resignation,,,,,,,,True
+6.34786182825625e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,21  25,1.0,New,False
+6.34786910427969e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,41  45,11.0,Established,False
+6.34788542900625e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,31  35,1.0,New,False
+6.34789421680312e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,41  45,5.0,Experienced,True
+6.34793871139219e+17,Resignation,2012.0,Administration (AO),Contract/casual,Female,21  25,3.0,New,False
+6.34794639635781e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,False
+6.34794857718438e+17,Resignation,2012.0,Teacher (including LVT),Permanent Part-time,Male,56 or older,1.0,New,True
+6.34799770843437e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Female,46  50,1.0,New,True
+6.3480076201625e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,26  30,3.0,New,False
+6.34807637421719e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,46  50,7.0,Experienced,True
+6.34811041501719e+17,Resignation,2012.0,,,,,,,False
+6.34811063824844e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Male,41  45,1.0,New,False
+6.34811182139844e+17,Resignation,2012.0,,,,,,,False
+6.34812805553281e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,21  25,1.0,New,True
+6.348129412025e+17,Resignation,2012.0,,,,,,,False
+6.34813581041094e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.34816502884375e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,36  40,1.0,New,False
+6.3481720866375e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,21  25,1.0,New,True
+6.34818651570937e+17,Resignation,2012.0,,,,,,,False
+6.34823973840625e+17,Resignation,2012.0,Administration (AO),Contract/casual,Male,21  25,1.0,New,False
+6.34825003759375e+17,Resignation,2013.0,Teacher (including LVT),Permanent Part-time,Female,31  35,3.0,New,False
+6.348250791775e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,20 or younger,3.0,New,True
+6.34825691015156e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,51-55,1.0,New,False
+6.34831756059375e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,56 or older,3.0,New,False
+6.3483795741875e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,26  30,3.0,New,True
+6.34837984851406e+17,Resignation,2012.0,Teacher (including LVT),Temporary Part-time,Female,56 or older,3.0,New,False
+6.348438490525e+17,Resignation,2012.0,Administration (AO),Temporary Part-time,Female,36  40,11.0,Established,False
+6.34849101152813e+17,Resignation,2012.0,Teacher (including LVT),Temporary Part-time,Female,41  45,1.0,New,False
+6.34852685801719e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Male,21  25,1.0,New,False
+6.34854316269063e+17,Resignation,2012.0,Operational (OO),Temporary Full-time,Male,46  50,1.0,New,False
+6.348543995725e+17,Resignation,2012.0,Professional Officer (PO),Permanent Part-time,Female,56 or older,5.0,Experienced,False
+6.34860279552344e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Male,51-55,7.0,Experienced,False
+6.34866546778594e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,36  40,7.0,Experienced,False
+6.34867257481719e+17,Resignation,2012.0,Professional Officer (PO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34873325422656e+17,Resignation,2012.0,Administration (AO),Permanent Full-time,Female,36  40,7.0,Experienced,False
+6.34874537800469e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,36  40,1.0,New,False
+6.34878466942188e+17,Resignation,2012.0,Administration (AO),Temporary Part-time,Female,26  30,1.0,New,False
+6.34878467049844e+17,Resignation,2012.0,,,,,,,False
+6.34880266652344e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,31  35,1.0,New,False
+6.34884416485938e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Female,46  50,5.0,Experienced,True
+6.3488615834625e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Male,31  35,3.0,New,True
+6.3488880224e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,56 or older,3.0,New,True
+6.34889851025469e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Male,36  40,7.0,Experienced,False
+6.34890472281094e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,46  50,7.0,Experienced,False
+6.3489055184875e+17,Resignation,2012.0,Teacher (including LVT),Temporary Full-time,Male,41  45,1.0,New,False
+6.34892336760312e+17,Resignation,2012.0,Administration (AO),Temporary Full-time,Female,21  25,3.0,New,True
+6.34892361974219e+17,Resignation,2012.0,Administration (AO),Temporary Part-time,Female,31  35,1.0,New,False
+6.34902770430459e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Male,41  45,1.0,New,False
+6.34903651349219e+17,Resignation,2012.0,Teacher (including LVT),Permanent Part-time,Male,51-55,3.0,New,False
+6.34907124987812e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Female,51-55,7.0,Experienced,True
+6.34908638162969e+17,Resignation,2012.0,Administration (AO),Contract/casual,Female,21  25,3.0,New,True
+6.34908831659365e+17,Resignation,2012.0,Workplace Training Officer,Temporary Part-time,Female,46  50,1.0,New,False
+6.34915560890625e+17,Resignation,2013.0,,,,,,,False
+6.34932864696524e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,36  40,5.0,Experienced,False
+6.34933010519531e+17,Resignation,2013.0,Administration (AO),Permanent Full-time,Female,46  50,7.0,Experienced,False
+6.34937512037812e+17,Resignation,2013.0,,,,,,,True
+6.34938047980781e+17,Resignation,2013.0,Administration (AO),Contract/casual,Female,41  45,3.0,New,False
+6.34938094787656e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,41  45,5.0,Experienced,True
+6.34938351431992e+17,Resignation,2013.0,,,,,,,False
+6.34940601409024e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Female,56 or older,5.0,Experienced,False
+6.34945048175625e+17,Resignation,2013.0,Teacher (including LVT),Permanent Part-time,Female,41  45,3.0,New,False
+6.34945136067187e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Female,36  40,5.0,Experienced,False
+6.34951129892031e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Male,31  35,3.0,New,False
+6.34951997495625e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Female,46  50,5.0,Experienced,False
+6.34958140455899e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Male,46  50,3.0,New,False
+6.34964112426563e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,21  25,3.0,New,False
+6.34969167674375e+17,Resignation,2013.0,Teacher (including LVT),Permanent Part-time,Female,56 or older,11.0,Established,True
+6.34970182194493e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Male,51-55,1.0,New,False
+6.34975184457305e+17,Resignation,2013.0,Administration (AO),Contract/casual,Female,26  30,1.0,New,False
+6.34975203429336e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Male,20 or younger,1.0,New,False
+6.3497631483625e+17,Resignation,2012.0,Teacher (including LVT),Permanent Full-time,Male,46  50,7.0,Experienced,True
+6.34977079348281e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,46  50,5.0,Experienced,False
+6.34982066598317e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Male,51-55,7.0,Experienced,False
+6.34985719186563e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Male,51-55,3.0,New,False
+6.3499166642113e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Male,36  40,1.0,New,True
+6.3499269435863e+17,Resignation,2013.0,Teacher (including LVT),Temporary Part-time,Female,26  30,1.0,New,False
+6.34995296716719e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,51-55,1.0,New,False
+6.34998528620661e+17,Resignation,2013.0,Administration (AO),Temporary Part-time,Female,46  50,1.0,New,False
+6.34999429878281e+17,Resignation,2013.0,Administration (AO),Permanent Part-time,Female,41  45,3.0,New,False
+6.35000251520036e+17,Resignation,2013.0,Administration (AO),Permanent Full-time,Female,46  50,5.0,Experienced,True
+6.35005511729063e+17,Resignation,2013.0,,,,,,,False
+6.3500553279375e+17,Resignation,2013.0,,,,,,,False
+6.35010822773594e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,26  30,3.0,New,False
+6.35012419902813e+17,Resignation,2013.0,,,,,,,True
+6.35012661372849e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Female,46  50,1.0,New,True
+6.35017508419688e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Male,51-55,1.0,New,True
+6.35019417764844e+17,Resignation,2013.0,Administration (AO),Contract/casual,Female,41  45,1.0,New,False
+6.35021852425625e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,36  40,1.0,New,False
+6.35025280694687e+17,Resignation,2013.0,Administration (AO),Permanent Full-time,Male,51-55,3.0,New,False
+6.35027942448125e+17,Resignation,2013.0,Operational (OO),Temporary Part-time,Female,56 or older,1.0,New,False
+6.35031425678438e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.35035655232813e+17,Resignation,2013.0,Administration (AO),Permanent Part-time,Female,26  30,1.0,New,False
+6.35037423338906e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,41  45,1.0,New,False
+6.35037453598125e+17,Resignation,2013.0,Administration (AO),Contract/casual,Male,41  45,3.0,New,False
+6.35040151398125e+17,Resignation,2013.0,Technical Officer (TO),Temporary Full-time,Female,26  30,1.0,New,True
+6.3504256585625e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,41  45,5.0,Experienced,False
+6.35047878104375e+17,Resignation,2013.0,Professional Officer (PO),Permanent Part-time,Female,46  50,5.0,Experienced,False
+6.3504798376125e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Male,41  45,1.0,New,True
+6.35049577295469e+17,Resignation,2013.0,,,,,,,False
+6.35049585605e+17,Resignation,2013.0,Operational (OO),Permanent Part-time,Female,56 or older,3.0,New,False
+6.35059949710781e+17,Resignation,2013.0,Administration (AO),Temporary Full-time,Female,26  30,1.0,New,False
+6.35065177031604e+17,Resignation,2013.0,,,,,,,False
+6.35065973820625e+17,Resignation,2013.0,Operational (OO),Temporary Full-time,Male,21  25,5.0,Experienced,False
+6.35066785175197e+17,Resignation,2013.0,Teacher (including LVT),Temporary Full-time,Male,51-55,1.0,New,False
+6.35067716405666e+17,Resignation,2013.0,,,,,,,False
+6.35070442972541e+17,Resignation,2013.0,Teacher (including LVT),Permanent Full-time,Female,51-55,5.0,Experienced,False
+6.35073030973791e+17,Resignation,2013.0,Administration (AO),Contract/casual,Female,26  30,3.0,New,False
